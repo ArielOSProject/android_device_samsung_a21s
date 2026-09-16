@@ -1,0 +1,17 @@
+[
+    {
+        "arielos": true,
+        "repository": "proprietary_vendor_samsung_a21s",
+        "target_path": "vendor/samsung/a21s"
+    },
+    {
+        "arielos": true,
+        "repository": "proprietary_vendor_samsung_a21s-common",
+        "target_path": "vendor/samsung/a21s-common"
+    },
+    {
+        "arielos": true,
+        "repository": "android_device_samsung_a21s-common",
+        "target_path": "device/samsung/a21s-common"
+    }
+]
